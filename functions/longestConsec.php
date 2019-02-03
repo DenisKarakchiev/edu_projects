@@ -1,5 +1,5 @@
 <?php
 
-function longestConsec($strarr, $k) {
-    // your code
+function longestConsec() {
+    var_dump('hello from yet another function');
 }
